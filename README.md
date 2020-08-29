@@ -1,2 +1,2 @@
 # aprendo_python
-en este repositorio llevare todo el código que use para aprender programación
+En este repositorio agrego todos los códigos  que use para aprender programación
